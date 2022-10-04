@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo_list_pern/static/css/main.073c9b0a.css",
+    "main.js": "/todo_list_pern/static/js/main.b7356f9e.js",
+    "index.html": "/todo_list_pern/index.html",
+    "main.073c9b0a.css.map": "/todo_list_pern/static/css/main.073c9b0a.css.map",
+    "main.b7356f9e.js.map": "/todo_list_pern/static/js/main.b7356f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b7356f9e.js"
+  ]
+}
